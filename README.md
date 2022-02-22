@@ -2,7 +2,7 @@
 A web application to Check out Expedia's daily travel deals & promotions. Expedia is one of the world's leading full-service online travel brands helping travelers easily plan and book their whole trip with the widest selection of vacation packages, flights, hotels, vacation rentals, rental cars, cruises, activities, attractions, and services.
 # Expedia
 
-![Logo](https://logos-world.net/expedia-logo/)
+![Logo](https://logos-world.net/wp-content/uploads/2021/03/Expedia-Logo.png)
 
 A web application to Check out Expedia's daily travel deals & promotions. Expedia is one of the world's leading full-service online travel brands helping travelers easily plan and book their whole trip with the widest selection of vacation packages, flights, hotels, vacation rentals, rental cars, cruises, activities, attractions, and services.
 
@@ -31,11 +31,6 @@ This project was a clone build during Masai School Unit-2 construct week.We had 
 
 Contributions are always welcome! You can contribute to this project to make this more functional.
 
-## Support
 
-For support,Mail  
-
-The main challenge was to build this website “Expedia” without using any library,
-so accordingly we have designed this website.
 
 Thank You.
